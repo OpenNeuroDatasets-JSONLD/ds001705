@@ -1,6 +1,6 @@
 {
     "Name": "NRM Grand Challenge 2018",
-    "BIDSVersion": "1.1.1",
+    "License": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
     "Authors": [
         "Mattia Veronese",
         "Gaia Rizzo",
@@ -17,5 +17,9 @@
     "Acknowledgements": [
         "Converted to BIDS by Thomas Funck"
     ],
-    "License": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"
+    "HowToAcknowledge": "",
+    "Funding": "",
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.1.1"
 }
