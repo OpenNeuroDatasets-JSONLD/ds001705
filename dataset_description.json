@@ -19,7 +19,9 @@
     ],
     "HowToAcknowledge": "",
     "Funding": "Support provided by :\nInvicro London: https://www.invicro.com \nSt Thomas’s PET centre: http://www.sthpetcentre.org.uk\n\n",
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "https://www.nitrc.org/projects/nrm2018_petgc"
+    ],
     "DatasetDOI": "",
     "BIDSVersion": "1.1.1"
 }
