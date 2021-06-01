@@ -1,5 +1,7 @@
 {
-    "Name": "NRM2018 PET Grand Challenge dataset",
+    "Name": "NRM2018 PET Grand Challenge Dataset",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
     "License": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
     "Authors": [
         "Mattia Veronese",
@@ -14,14 +16,17 @@
         "Andrew Reader",
         "Roger Gunn"
     ],
-    "Acknowledgements": [
-        "Converted to BIDS by Thomas Funck"
+    "Aknowledgments": [
+        "Converted to BIDS v1.1.1 by Thomas Funck",
+        "Converetd to BIDS v1.6.0 by Alessio Giacomel"
     ],
-    "HowToAcknowledge": "",
-    "Funding": "Support provided by :\nInvicro London: https://www.invicro.com \nSt Thomas’s PET centre: http://www.sthpetcentre.org.uk\n\n",
+    "HowToAknowledge": "",
+    "Funding": [
+        "Invicro London: https://www.invicro.com:",
+        "St Thomas's PET Centre: http://www.sthpetcentre.org.uk"
+    ],
     "ReferencesAndLinks": [
         "https://www.nitrc.org/projects/nrm2018_petgc"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds001705.v1.0.0",
-    "BIDSVersion": "1.1.1"
+    "DatasetDOI": "10.18112/openneuro.ds001705.v1.0.0"
 }
