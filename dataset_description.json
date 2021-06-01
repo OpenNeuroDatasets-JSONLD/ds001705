@@ -2,7 +2,7 @@
     "Name": "NRM2018 PET Grand Challenge Dataset",
     "BIDSVersion": "1.6.0",
     "DatasetType": "raw",
-    "License": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+    "License": "CC0",
     "Authors": [
         "Mattia Veronese",
         "Gaia Rizzo",
@@ -28,5 +28,5 @@
     "ReferencesAndLinks": [
         "https://www.nitrc.org/projects/nrm2018_petgc"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds001705.v1.0.0"
+    "DatasetDOI": "10.18112/openneuro.ds001705.v1.0.1"
 }
