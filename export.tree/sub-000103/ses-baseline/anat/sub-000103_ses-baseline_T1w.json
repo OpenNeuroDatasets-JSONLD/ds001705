@@ -1,0 +1,8 @@
+{
+    "Manufacturer": "Siemens",
+    "ManufacturerModelName": "Biograph mMR",
+    "MagneticFieldStrength": 3,
+    "GradientSetType": "Actively shielded whole-body gradient system",
+    "PulseSequenceType": "T1 weighted",
+    "NonLinearGradientCorrection": true
+}
