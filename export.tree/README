@@ -1,0 +1,4 @@
+For many years PET centres around the world have developed and optimised their own analysis pipelines, including a mixture of in-house and independent software, and have implemented different modelling choices for PET image processing and data quantification. As a result, many different methods and tools are available for PET image analysis.
+
+This dataset aims to provide a normative tool to assess the performance and consistency of PET modelling approaches on the same data for which the ground truth is known.
+It was created and released for the NRM2018 PET Grand Challenge. The challenge aimed at evaluating the performances of different PET analysis tools to identify areas and magnitude of receptor binding changes in a PET radioligand neurotransmission study. 
